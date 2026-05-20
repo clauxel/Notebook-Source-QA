@@ -1,0 +1,11 @@
+# Notebook Source QA
+
+Notebook Source QA imports source packs, URLs, versions, customer projects, and forbidden sources, then tracks freshness, conflicts, missing documents, and client reports.
+
+Website: https://notebooksourceqa.space/
+Docs pattern reference: https://github.com/clauxel/MiroFish
+Primary keyword: NotebookLM source pack QA
+Type: SaaS
+Default plan: Team
+
+Public boundary: docs-only repository; no production source code or secrets.
